@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "CalBotV3",
+    "username": "CalBotV4",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "CalPalSMP.aternos.me",
+    "ip": "mouse.aternos.host:56397",
     "port": 56397,
     "version": "",
     "try-creative": false
