@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mouse.aternos.host:56397",
+    "ip": "mouse.aternos.host",
     "port": 56397,
     "version": "",
     "try-creative": false
@@ -85,3 +85,4 @@
     "respond": true
   }
 }
+
