@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CalPalSMP.aternos.me",
-    "port": 56397,
+    "ip": "CalPalSMP.aternos.me:56397",
     "version": "",
     "try-creative": false
   },
